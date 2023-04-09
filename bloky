@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bloky</title>
+	<style>
+		body {
+			background-color: black;
+		}
+		h1 {
+			color: #00FF00;
+			font-family: 'MatrixRegular';
+			font-size: 48px;
+			text-align: center;
+			margin-top: 20%;
+		}
+	</style>
+</head>
+<body>
+	<h1>Bloky</h1>
+</body>
+</html>
